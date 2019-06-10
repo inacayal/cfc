@@ -1,0 +1,9 @@
+[09-Apr-2019 11:45:25 America/Argentina/Buenos_Aires] PHP Warning:  require(/home/cfcul/becas.cfcultura.com.ar/../vendor/autoload.php): failed to open stream: No such file or directory in /home/cfcul/becas.cfcultura.com.ar/index.php on line 24
+[09-Apr-2019 11:45:25 America/Argentina/Buenos_Aires] PHP Fatal error:  require(): Failed opening required '/home/cfcul/becas.cfcultura.com.ar/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cfcul/becas.cfcultura.com.ar/index.php on line 24
+[09-Apr-2019 21:45:24 UTC] PHP Fatal error:  Trait 'TCG\Voyager\Models\Notifiable' not found in /home/cfcul/app_becas/vendor/tcg/voyager/src/Models/User.php on line 22
+[09-Apr-2019 21:45:24 UTC] PHP Fatal error:  Trait 'TCG\Voyager\Models\Notifiable' not found in /home/cfcul/app_becas/vendor/tcg/voyager/src/Models/User.php on line 22
+[09-Apr-2019 21:45:29 UTC] PHP Fatal error:  Trait 'TCG\Voyager\Models\Notifiable' not found in /home/cfcul/app_becas/vendor/tcg/voyager/src/Models/User.php on line 22
+[09-Apr-2019 21:45:29 UTC] PHP Fatal error:  Trait 'TCG\Voyager\Models\Notifiable' not found in /home/cfcul/app_becas/vendor/tcg/voyager/src/Models/User.php on line 22
+[09-Apr-2019 21:46:07 UTC] PHP Fatal error:  Trait 'TCG\Voyager\Models\Notifiable' not found in /home/cfcul/app_becas/vendor/tcg/voyager/src/Models/User.php on line 22
+[09-Apr-2019 21:46:14 UTC] PHP Fatal error:  Trait 'TCG\Voyager\Models\Notifiable' not found in /home/cfcul/app_becas/vendor/tcg/voyager/src/Models/User.php on line 22
+[10-Apr-2019 12:59:22 UTC] PHP Fatal error:  Cannot use TCG\Voyager\Models\Notifiable as Notifiable because the name is already in use in /home/cfcul/app_becas/vendor/tcg/voyager/src/Models/User.php on line 17
